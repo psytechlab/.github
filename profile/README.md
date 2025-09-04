@@ -13,6 +13,8 @@
 
 Связаться с нами: psytechlab24@gmail.com
 
+Наши репозитории на Hugging Face: https://huggingface.co/psytechlab
+
 # PsyTechLab
 
 Our team develops and researches various solutions at the intersection of machine learning and psychology. Our goal is to create tools that help assess people's mental state, as well as facilitate the work of psychologists and psychotherapists. We believe that we can make this world a better place.
